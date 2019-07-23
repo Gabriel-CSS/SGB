@@ -15,7 +15,7 @@ Victor Gabriel C. G.
 ## TELAS
 
 ### TELA PRINCIPAL
-<img src="https://raw.githubusercontent.com/Gabriel-CSS/SGB/master/Bibliotecav4/imagens/TelaPrincipal.png?token=AG4EPAVGSJR7VVUTRT5Z3WS5GZNMS" width="460"/>
+<img src="https://raw.githubusercontent.com/Gabriel-CSS/SGB/master/Bibliotecav4/imagens/TelaPrincipal.png?token=AG4EPAS4PYQIWTX54RXKI3S5GZOGW" width="460"/>
 
 ### TELA DE CADASTRO DE LIVROS
 
